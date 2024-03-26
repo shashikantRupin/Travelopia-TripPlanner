@@ -101,49 +101,50 @@ header {
 }
 
 .popup {
-  width: 250px;
-  height: 280px;
-  background-color: whitesmoke;
+  width: 200px;
+  height: 200px;
+  background-color: #f8f9fa;
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 50%;
-  /* transform: translate(-50%, -50%) scale(0.1); */
+  transform: translate(-50%, -50%) scale(0.1);
   text-align: center;
-  padding: 0 30px 30px;
+  padding: 20px;
   color: rgb(82, 126, 207);
-  border-radius: 25px;
+  border-radius: 15px;
   display: none;
   transition: transform 0.4s, top 0.4s;
   z-index: 5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 .open-popup {
   display: block;
   top: 50%;
   transform: translate(-50%, -50%) scale(1);
 }
+
 .popup img {
-  padding-top: 20px;
-  width: 100px;
-  margin: auto;
+  width: 60px;
+  margin: 10px auto;
 }
+
 .popup h2 {
-  font-size: 25px;
-  font-weight: 500;
-  margin: 10px 0 0px;
+  font-size: 20px;
+  margin: 5px 0;
 }
+
 .popup button {
-  width: 100%;
-  margin-top: 30px;
-  padding: 10px 20px;
+  width: 100px;
+  margin: 20px auto 0;
+  padding: 8px 16px;
   background: rgb(82, 126, 207);
   color: white;
-  border-radius: 25px;
-  font-size: large;
+  border-radius: 20px;
+  font-size: 16px;
   font-weight: 600;
-  z-index: 10;
   cursor: pointer;
-  text-align: center;
-  border: 2px solid #3e75b0;
+  border: none;
 }
 
 footer {
