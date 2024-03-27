@@ -32,9 +32,23 @@ style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 - **HTML**: Provides the structure and content for the web page.
 - **CSS**: Handles the UI and styling, ensuring an appealing visual presentation.
-- **JavaScript**: Implements functionality such as the alert button and dynamic design elements.
-- **Responsive Design**: Utilizes media queries and flex layouts to adapt the page layout across various devices.
-- **Fonts & Icons**: Integrates Google Fonts and FontAwesome icons for enhanced typography and visual elements.
+- **JavaScript**: Implements functionality such as the alert button and dynamic 
+
+### Design Elements
+
+1. **Media Queries:**
+   Media queries are utilized to ensure the website's responsiveness across various screen sizes. By adjusting the layout and styling dynamically, the website offers an optimal viewing experience on different devices.
+
+2. **Keyframes:**
+   Keyframes are employed to create captivating animations within the website. By defining specific animation steps, keyframes enhance user engagement and interaction, providing a seamless browsing experience.
+
+3. **Overlay:**
+   The overlay feature is integrated to enhance the visual presentation of images. By adding a translucent layer over images, overlay improves readability and focus, making text content more prominent and appealing.
+4. **Responsive Design:**
+  Utilizes media queries and flex layouts to adapt the page layout across various devices, ensuring a seamless browsing experience on mobile phones, tablets, and desktop computers.
+
+5. **Fonts & Icons:**
+  Integrates Google Fonts and FontAwesome icons for enhanced typography and visual elements. By leveraging these resources, the website achieves a modern and visually appealing design, improving readability and user engagement.   
 
 ## How to Use
 
