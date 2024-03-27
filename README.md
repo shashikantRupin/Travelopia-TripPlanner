@@ -9,13 +9,13 @@ Travelopia is a single-page web component designed to provide a sleek and dynami
 ### Screenshots
 
 #### Mobile View
-<img src="./assets/smallScreen.png" alt="Mobile View" width="300" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="./assets/smallScreen.png" alt="Mobile View" width="300" style="box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.6);">
 
 #### Desktop View
-<img src="./assets/largeScreen.png" alt="Desktop View" width="600" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="./assets/largeScreen.png" alt="Desktop View" width="600" style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 #### Pop-up Alert
-<img src="./assets/popUpAlert.png" alt="Pop-up Alert" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="./assets/popup.png" alt="Pop-up Alert" style="box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.8);">
 
 
 ## Features
