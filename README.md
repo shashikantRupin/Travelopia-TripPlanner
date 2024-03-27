@@ -13,7 +13,7 @@ Travelopia is a single-page web component designed to provide a sleek and dynami
 style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 #### Desktop View
-<img src="./assets/largeScreen.png" alt="Desktop View" width="600" style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
+<img src="./assets/largeScreen.png" alt="Desktop View" style="box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.8);">
 
 #### Pop-up Alert
 <img src="./assets/popup.png" alt="Pop-up Alert" style="box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.8);">
@@ -46,7 +46,7 @@ To run this project locally:
 
 ## Contributors
 
-- [shashikantRupin](https://github.com/shashikantRupin/Travelopia-TripPlanner)
+- [shashikantRupin](https://github.com/shashikantRupin)
 
 ## License
 
