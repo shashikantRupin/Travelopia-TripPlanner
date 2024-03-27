@@ -46,15 +46,13 @@ To run this project locally:
 
 ## Contributors
 
-- [Your Name](https://github.com/shashikantRupin/Travelopia-TripPlanner)
+- [shashikantRupin](https://github.com/shashikantRupin/Travelopia-TripPlanner)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Inspired by the beauty of travel and exploration.
 ## Acknowledgments
 
 - Inspired by the beauty of travel and exploration.
