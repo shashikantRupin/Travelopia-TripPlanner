@@ -47,10 +47,13 @@ header {
   width: 100%;
   top: 0;
   bottom: 0;
-  background-image: linear-gradient(to bottom left,
-      rgba(43, 241, 245, 0.4),
-      rgba(0, 255, 187, 0.6));
+  background-image: linear-gradient(
+    to bottom left,
+    rgba(43, 241, 245, 0.4),
+    rgba(0, 255, 187, 0.6)
+  );
 }
+
 .adventures {
   position: absolute;
   display: flex;
