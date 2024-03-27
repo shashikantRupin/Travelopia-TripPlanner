@@ -9,7 +9,7 @@ Travelopia is a single-page web component designed to provide a sleek and dynami
 ### Screenshots
 
 #### Mobile View
-![Mobile View](./assets/smallScreen.png)
+![Mobile View]<img src="./assets/smallScreen.png" alt="Mobile View" width="300">
 
 #### Desktop View
 ![Desktop View](./assets/largeScreen.png)
